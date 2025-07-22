@@ -1,12 +1,12 @@
 Projeto Ampliar - UniCesumar 
 ============
-**Algoritmos e Lógica de Programaç?o** ?? [53/2025]
+**Algoritmos e LÃ³gica de ProgramaÃ§Ã£o** ?? [53/2025]
 
-Olá pessoal da monitoria do **Projeto Ampliar**, projeto de monitoria da UniCesumar! Este é o nosso espaço no GitHub, onde vamos armazenar as atividades que resolvemos juntos em sala e também aquelas que ser?o para casa. Aqui, queremos criar um ambiente bacana para compartilhar recursos e nos ajudar a dominar os desafios das aulas. E sabe por que estamos aqui? Para se aventurar no mundo do Git! Vamos começar **dando um fork** neste repositório e mergulhar de cabeça nesse universo de controle de vers?o.
+OlÃ¡ pessoal da monitoria do **Projeto Ampliar**, projeto de monitoria da UniCesumar! Este Ã© o nosso espaÃ§o no GitHub, onde vamos armazenar as atividades que resolvemos juntos em sala e tambï¿½m aquelas que ser?o para casa. Aqui, queremos criar um ambiente bacana para compartilhar recursos e nos ajudar a dominar os desafios das aulas. E sabe por que estamos aqui? Para se aventurar no mundo do Git! Vamos comeÃ§ar **dando um fork** neste repositÃ³rio e mergulhar de cabeï¿½a nesse universo de controle de versÃ£o.
 
-Lembrando que as aulas acontecem toda **terça e quinta-feira**, das **20:30 às 22:30**. Vamos explorar os mistérios dos Algoritmos e da Lógica de Programaç?o, utilizando a **linguagem C** como nossa ferramenta principal. Estou empolgado para ver o que vamos aprender juntos! Nos vemos lá!
+Lembrando que as aulas acontecem toda **terÃ§a e quinta-feira**, das **20:30 Ã s 22:30**. Vamos explorar os mistï¿½rios dos Algoritmos e da LÃ³gica de ProgramaÃ§Ã£o, utilizando a **linguagem C** como nossa ferramenta principal. Estou empolgado para ver o que vamos aprender juntos! Nos vemos lÃ¡!
 
-Mais informaç?es, [clique aqui](https://sites.google.com/view/programa-ampliar/2025/tecnologia-532025/algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o?authuser=0)!
+Mais informaÃ§Ãµes, [clique aqui](https://sites.google.com/view/programa-ampliar/2025/tecnologia-532025/algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o?authuser=0)!
 
 Monitor:
 
@@ -17,56 +17,56 @@ Segue abaixo nosso cronograma:
 
 | Data       | Planejamento                                 |
 |:----------:|:--------------------------------------------:|
-| 2/07/2025 | Semana 1 - Apresentaç?o e Conceitos Básicos  |
+| 22/07/2025 | Semana 1 - ApresentaÃ§Ã£o e Conceitos BÃ¡sicos  |
 
 
 ---
-## Pré-Requisitos
+## PrÃ©-Requisitos
 
-Para ser possível praticarem os exercícios, precisar?o de um editor de textos ou IDE instalado e um compilador (GCC) e, recomendo também, que obtenham conhecimentos básicos de Git e GitHub para melhor interaç?o com este repositório.
+Para ser possÃ­vel praticarem os exercÃ­cios, precisarÃ£o de um editor de textos ou IDE instalado e um compilador (GCC) e, recomendo tambÃ©m, que obtenham conhecimentos bÃ¡sicos de Git e GitHub para melhor interaÃ§Ã£o com este repositÃ³rio.
 
-Curso básico de Git e GitHub: [Clique Aqui!!](https://www.youtube.com/watch?v=iQn5vZt0iWI&list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV&ab_channel=PietroMartinsDeOliveira)
+Curso bÃ¡sico de Git e GitHub: [Clique Aqui!!](https://www.youtube.com/watch?v=iQn5vZt0iWI&list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV&ab_channel=PietroMartinsDeOliveira)
 
-Alguns exemplos de editor de Texto ou IDE, com seus prós e contras, link para download e link para vídeo do YouTUbe mostrando como instalar/configurar.
+Alguns exemplos de editor de Texto ou IDE, com seus prÃ³s e contras, link para download e link para vÃ³deo do YouTUbe mostrando como instalar/configurar.
 
 1. Visual Studio Code (VSCode)
-- **Prós**: Leve, altamente personalizável, ampla extensibilidade, suporte a várias linguagens e integraç?o com várias tecnologias.
-- **Contras**: Requer configuraç?o inicial, pode ser menos integrado para desenvolvimento C/C++ em comparaç?o com IDEs dedicadas.
+- **PrÃ³s**: Leve, altamente personalizï¿½vel, ampla extensibilidade, suporte a vÃ¡rias linguagens e integraÃ§Ã£o com vÃ¡rias tecnologias.
+- **Contras**: Requer configuraÃ§Ã£oo inicial, pode ser menos integrado para desenvolvimento C/C++ em comparaÃ§Ã£o com IDEs dedicadas.
 - **Download**: https://code.visualstudio.com/download
 - **YouTube**: https://youtu.be/3pfRvy_gfqY?si=4evQwhUdVDDdNJRy
 
 2. CLion
-- **Prós**: Especializado em C/C++, depuraç?o avançada, análise de código poderosa.
-- **Contras**: Licença paga (mas pode-se obter de graça por 1 ano com o e-mail institucional de aluno), mais pesado em recursos, curva de aprendizado maior.
+- **PrÃ³s**: Especializado em C/C++, depuraÃ§Ã£o avanÃ§ada, anÃ¡lise de cÃ³digo poderosa.
+- **Contras**: LicenÃ§a paga (mas pode-se obter de graÃ§a por 1 ano com o e-mail institucional de aluno), mais pesado em recursos, curva de aprendizado maior.
 - **Download**: https://www.jetbrains.com/shop/eform/classroom/faculty
 - **YouTube**: https://youtu.be/Gk8WigmI3d0?si=0Sao5d8IN9M9JBa7
 
 3. Code::Blocks
-- **Prós**: Leve, multiplataforma, suporte a múltiplos compiladores.
-- **Contras**: Interface menos moderna, menos recursos avançados comparado a outras IDEs.
+- **PrÃ³s**: Leve, multiplataforma, suporte a mÃºltiplos compiladores.
+- **Contras**: Interface menos moderna, menos recursos avanÃ§ados comparado a outras IDEs.
 - **Download**: https://www.codeblocks.org/downloads/
 - **YouTube**: https://youtu.be/gaSeRTDgt8U?si=uO99qx1eecj5Pf6O
 
 4. Dev-C++
-- **Prós**: Interface simples, fácil de usar para iniciantes.
-- **Contras**: Desenvolvimento estagnado, menos suporte para projetos grandes e complexos.
+- **PrÃ³s**: Interface simples, fÃ¡cil de usar para iniciantes.
+- **Contras**: Desenvolvimento estagnado, menos suporte para projetos grandes e complexos. Excesso de bugs e problemas na execuÃ§Ã£o.
 - **Download**: https://filehippo.com/download_bloodshed-dev-c/5.11/
 - **YouTube**: https://youtu.be/00cTn4-xxrY?si=OOc0_E7JYbLaaLXi
 
 5. Eclipse C/C++ Development Tools (CDT)
-- **Prós**: Poderoso, extensível, integraç?o com outras ferramentas.
+- **PrÃ³s**: Poderoso, extensÃ­vel, integraï¿½?o com outras ferramentas.
 - **Contras**: Mais complexo para iniciantes, pode ser pesado em recursos.
 - **Download**: https://projects.eclipse.org/projects/tools.cdt
 - **YouTube**: https://youtu.be/N369UokEIH8?si=EP-eax_CDkSUMtml
 
 6. Visual Studio (Community Edition)
-- **Prós**: Rico em recursos, integraç?o com Git.
-- **Contras**: Pesado em recursos, suporte limitado a sistemas operacionais além do Windows.
+- **PrÃ³s**: Rico em recursos, integraÃ§Ã£o com Git.
+- **Contras**: Pesado em recursos, suporte limitado a sistemas operacionais alÃ©m do Windows.
 - **Download**: https://visualstudio.microsoft.com/pt-br/vs/community/
 - **YouTube**: https://youtu.be/pMT6qygEggI?si=uzxUNPFIovHN5imX
 
 7. NetBeans
-- **Prós**: Integrado ao ecossistema Java, boa para projetos C/C++, suporte a outros idiomas.
-- **Contras**: Mais pesado em recursos, menos popular para desenvolvimento C/C++ em comparaç?o com outras IDEs dedicadas.
+- **PrÃ³s**: Integrado ao ecossistema Java, boa para projetos C/C++, suporte a outros idiomas.
+- **Contras**: Mais pesado em recursos, menos popular para desenvolvimento C/C++ em comparaÃ§Ã£o com outras IDEs dedicadas.
 - **Download**: https://visualstudio.microsoft.com/pt-br/vs/community/
 - **YouTube**: https://youtu.be/pMT6qygEggI?si=uzxUNPFIovHN5imX
