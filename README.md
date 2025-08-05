@@ -1,10 +1,10 @@
 Projeto Ampliar - UniCesumar 
 ============
-**Algoritmos e Lógica de Programação** ?? [53/2025]
+**Algoritmos e Lógica de Programação** [53/2025]
 
-Olá pessoal da monitoria do **Projeto Ampliar**, projeto de monitoria da UniCesumar! Este é o nosso espaço no GitHub, onde vamos armazenar as atividades que resolvemos juntos em sala e tamb�m aquelas que ser?o para casa. Aqui, queremos criar um ambiente bacana para compartilhar recursos e nos ajudar a dominar os desafios das aulas. E sabe por que estamos aqui? Para se aventurar no mundo do Git! Vamos começar **dando um fork** neste repositório e mergulhar de cabe�a nesse universo de controle de versão.
+Olá pessoal da monitoria do **Projeto Ampliar**, projeto de monitoria da UniCesumar! Este é o nosso espaço no GitHub, onde vamos armazenar as atividades que resolvemos juntos em sala e também aquelas que serão para casa. Aqui, queremos criar um ambiente bacana para compartilhar recursos e nos ajudar a dominar os desafios das aulas. E sabe por que estamos aqui? Para se aventurar no mundo do Git! Vamos começar **dando um fork** neste repositório e mergulhar de cabeça nesse universo de controle de versão.
 
-Lembrando que as aulas acontecem toda **terça e quinta-feira**, das **20:30 às 22:30**. Vamos explorar os mist�rios dos Algoritmos e da Lógica de Programação, utilizando a **linguagem C** como nossa ferramenta principal. Estou empolgado para ver o que vamos aprender juntos! Nos vemos lá!
+Lembrando que as aulas acontecem toda **terça e quinta-feira**, das **20:30 às 22:30**. Vamos explorar os mistérios dos Algoritmos e da Lógica de Programação, utilizando a **linguagem C** como nossa ferramenta principal. Estou empolgado para ver o que vamos aprender juntos! Nos vemos lá!
 
 Mais informações, [clique aqui](https://sites.google.com/view/programa-ampliar/2025/tecnologia-532025/algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o?authuser=0)!
 
@@ -18,7 +18,14 @@ Segue abaixo nosso cronograma:
 | Data       | Planejamento                                 |
 |:----------:|:--------------------------------------------:|
 | 22/07/2025 | Semana 1 - Apresentação e Conceitos Básicos  |
-
+| 29/07/2025 | Semana 2 - Estruturas Condicionais           |
+| 05/08/2025 | Semana 3 - Estruturas de Repetição           |
+| 12/08/2025 | Semana 4 - Estruturas Homogêneas             |
+| 19/08/2025 | Semana 5 - >>> Não Haverá Monitoria <<<      |
+| 26/08/2025 | Semana 6 - Estruturas Heterogêneas           |
+| 02/09/2025 | Semana 7 - Sub-Rotinas                       |
+| 09/09/2025 | Semana 8 - Ponteiros                         |
+| 16/09/2025 | Semana 9 - Revisão Geral e Encerramento      |
 
 ---
 ## Pré-Requisitos
@@ -30,7 +37,7 @@ Curso básico de Git e GitHub: [Clique Aqui!!](https://www.youtube.com/watch?v=i
 Alguns exemplos de editor de Texto ou IDE, com seus prós e contras, link para download e link para vódeo do YouTUbe mostrando como instalar/configurar.
 
 1. Visual Studio Code (VSCode)
-- **Prós**: Leve, altamente personaliz�vel, ampla extensibilidade, suporte a várias linguagens e integração com várias tecnologias.
+- **Prós**: Leve, altamente personalizável, ampla extensibilidade, suporte a várias linguagens e integração com várias tecnologias.
 - **Contras**: Requer configuraçãoo inicial, pode ser menos integrado para desenvolvimento C/C++ em comparação com IDEs dedicadas.
 - **Download**: https://code.visualstudio.com/download
 - **YouTube**: https://youtu.be/3pfRvy_gfqY?si=4evQwhUdVDDdNJRy
@@ -54,7 +61,7 @@ Alguns exemplos de editor de Texto ou IDE, com seus prós e contras, link para d
 - **YouTube**: https://youtu.be/00cTn4-xxrY?si=OOc0_E7JYbLaaLXi
 
 5. Eclipse C/C++ Development Tools (CDT)
-- **Prós**: Poderoso, extensível, integra�?o com outras ferramentas.
+- **Prós**: Poderoso, extensível, integração com outras ferramentas.
 - **Contras**: Mais complexo para iniciantes, pode ser pesado em recursos.
 - **Download**: https://projects.eclipse.org/projects/tools.cdt
 - **YouTube**: https://youtu.be/N369UokEIH8?si=EP-eax_CDkSUMtml
