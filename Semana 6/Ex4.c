@@ -43,9 +43,12 @@ void cadastrarPessoa(int i) {
     fgets( pessoas[i].nome , sizeof(pessoas[i].nome) , stdin );
     pessoas[i].nome[ strcspn(pessoas[i].nome, "\n") ] = '\0';
 
+    pessoas[i].matricula = i+10000;
+    /*
     printf("Informe a matricula: ");
     scanf("%d", &pessoas[i].matricula);
     getchar();
+    */
 
     printf("Informe a rua do endereço: ");
     fgets( pessoas[i].endereco.rua , sizeof(pessoas[i].endereco.rua) , stdin );
@@ -59,13 +62,44 @@ void cadastrarPessoa(int i) {
     
  }
 
+void listarPessoas(int X) {
+    for(int i = 0; i < X; i++) {
+        printf("----- Pessoa %d -----\n", i+1);
+        printf("Matricula: %d\n", pessoas[i].matricula);
+        printf("Nome: %s\n", pessoas[i].nome);
+        printf("Endereço: %s, %d, CEP: %d\n", pessoas[i].endereco.rua, pessoas[i].endereco.numero, pessoas[i].endereco.cep);
+    }
+}
+
+void buscarMatricula(int X){
+    int busca;
+    int encontrado = 0;
+    printf("Informe a matricula que deseja: ");
+    scanf("%d", &busca);
+    getchar();
+
+    for(int i = 0; i < X; i++){
+        if (busca == pessoas[i].matricula) {
+            printf("Nome: %s\n", pessoas[i].nome);
+            printf("Endereço: %s, %d, CEP: %d\n", pessoas[i].endereco.rua, pessoas[i].endereco.numero, pessoas[i].endereco.cep);
+            encontrado = 1;
+            break;
+        }
+    }
+
+    if ( encontrado == 0 ){
+        printf("Não existe a matricula informada.\n");
+    }    
+}
+
 int main() {
     int opcao, contadorPessoas = 0;
     
     do {
-        printf("1. Cadastrar Pessoa\n2. Listar Pessoa\n3. Biscar por matricula\n4. Sair\n");
+        printf("1. Cadastrar Pessoa\n2. Listar Pessoa\n3. Buscar por matricula\n4. Sair\n");
         printf("Informe uma opção: ");
         scanf("%d", &opcao);
+        getchar();
 
         switch (opcao)
         {
@@ -78,8 +112,11 @@ int main() {
                 }    
                 break;
             case 2:
+                listarPessoas(contadorPessoas);
+                printf("----- Fim da lista -----\n");
                 break;
             case 3:
+                buscarMatricula(contadorPessoas);
                 break;
             case 4:
                 printf("Saindo...");
